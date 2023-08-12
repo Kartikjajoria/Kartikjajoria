@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/kartikjajoria31" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/kartikjajoria31?logo=twitter&style=for-the-badge" alt="https://twitter.com/kartikjajoria31" /></a> </p>
 
-- 🌱 I’m currently learning **React, Data analysis,**
+- 🌱 I’m currently learning **React and Data analysis**
 
 - 📫 How to reach me **kartikjajoria26@gmail.com**
 
