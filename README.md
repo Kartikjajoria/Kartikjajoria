@@ -25,9 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikjajoria&show_icons=true&locale=en" alt="kartikjajoria" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikjajoria&" alt="kartikjajoria" /></p>
-
-
-
-
 
