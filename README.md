@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm KARTIK JAJORIA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Kartikjajoria/Kartikjajoria/assets/100478521/0a228ab4-aba4-46ed-80be-3fc442a8d807)"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikjajoria&label=Profile%20views&color=0e75b6&style=flat" alt="kartikjajoria" /> </p>
 
